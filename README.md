@@ -9,5 +9,5 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
 <img src="https://img.shields.io/badge/amd-Radeon%20RX%20590-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+<img src="https://img.shields.io/badge/intel-core%20i7%204770K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/windows-asus%20zenbook%203-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
