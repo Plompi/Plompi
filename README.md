@@ -1,3 +1,8 @@
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/youtube.svg" />
@@ -6,3 +11,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+
+<img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+<img src="https://img.shields.io/badge/windows-asus%20zenbook%203-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
