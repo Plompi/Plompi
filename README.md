@@ -1,7 +1,5 @@
 ### Hi there, I'm Philipp - aka Plompii 👋
 
-<br />
-
 ---
 
 ### Languages and Tools:
