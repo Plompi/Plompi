@@ -9,7 +9,7 @@ Python is my main programming language
 <br />
 
 <img align="bottom" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<bottom>I'm currently learning SQL</bottom>
+<left>I'm currently learning SQL</left>
 
 <br />
 <br />
