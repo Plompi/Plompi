@@ -1,7 +1,3 @@
-<img align="left" src="https://img.shields.io/badge/windows-%2010%20Pro-%23919191.svg?&style=for-the-badge"/><img aling="left" src="https://img.shields.io/badge/amd-Radeon%20RX%20590-%23ED1C24.svg?&style=for-the-badge"/>  <img align="left" src="https://img.shields.io/badge/intel-core%20i7%204770K-%230071C5.svg?&style=for-the-badge"/>
-
----
-
 ### Hi there, I'm Philipp - aka Plompii 👋
 
 ---
@@ -18,3 +14,4 @@
 
 ---
 
+<img align="left" src="https://img.shields.io/badge/windows-%2010%20Pro-%23919191.svg?&style=for-the-badge"/><img aling="left" src="https://img.shields.io/badge/amd-Radeon%20RX%20590-%23ED1C24.svg?&style=for-the-badge"/>  <img align="left" src="https://img.shields.io/badge/intel-core%20i7%204770K-%230071C5.svg?&style=for-the-badge"/>
