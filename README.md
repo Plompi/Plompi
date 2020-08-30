@@ -10,4 +10,4 @@
 
 <img src="https://img.shields.io/badge/amd-Radeon%20RX%20590-%23ED1C24.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/intel-core%20i7%204770K-%230071C5.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/windows-%20Pro-%230078D6.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/windows-%20Pro%2064Bit-%230078D6.svg?&style=for-the-badge"/>
