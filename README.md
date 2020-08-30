@@ -1,9 +1,3 @@
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-
-
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
 
