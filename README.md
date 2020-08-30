@@ -4,8 +4,6 @@
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
 
