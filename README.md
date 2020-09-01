@@ -2,7 +2,6 @@
 
 #### Currently I'm using these Languages and Tools:
 <br/>
-
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/1.png" />Python is my main programming language
 
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/2.png" />I'm currently learning SQL
