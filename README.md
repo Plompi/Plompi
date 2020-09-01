@@ -10,7 +10,7 @@
 
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/4.png" />I manage and publish all my applications on GitHub
 
-<img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/5.png" />The Terminal is so important ;)
+<img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/5.png" />The Terminal is essential for programmers
 
 <br />
 
