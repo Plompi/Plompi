@@ -6,7 +6,7 @@
 
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/2.png" />I'm currently learning SQL
 
-<img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/3.png" />Atom is my text editor of choice to write code
+<img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/3.png" />Atom is my text editor of choice to write applications
 
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/4.png" />I manage and publish all my applications on GitHub
 
