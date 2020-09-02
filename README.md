@@ -1,6 +1,6 @@
-### Hi there, I'm Philipp - aka Plompii 👋
+## Hi there, I'm Philipp - aka Plompii 👋
 
-#### Currently I'm using these Languages and Tools:
+### Currently I'm using these Languages and Tools:
 
 <img align="left" height="26" width="26" src="https://github.com/Plompii/Plompii/blob/master/1.png" />My main programming language is Python
 
