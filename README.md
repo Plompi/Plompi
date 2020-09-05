@@ -1,5 +1,4 @@
-<img src="https://github.com/Plompii/Plompii/blob/main/assets/Unbenannt.png">
-<img src="https://github.com/Plompii/Plompii/blob/main/assets/Unbannt.png">
+<img src="https://github.com/Plompii/Plompii/blob/main/assets/banner.png">
 <img src="https://github.com/Plompii/Plompii/blob/main/assets/Unbent.png">
 
 ## Hi there, I'm Philipp - aka Plompii 👋
