@@ -1,4 +1,5 @@
 <img src="https://github.com/Plompii/Plompii/blob/main/assets/banner.png">
+<img src="https://github.com/Plompii/Plompii/blob/main/assets/ProfileBanner.png">
 
 ## Hi there, I'm Philipp - aka Plompii 👋
 
