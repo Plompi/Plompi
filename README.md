@@ -8,7 +8,7 @@
 
 <img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/2.png" />I'm currently learning SQL
 
-<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/3.png" />Atom is my text editor of choice to write applications
+<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/3.png" />VSCode is my text editor of choice to write applications
 
 <img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/4.png" />I manage and publish all my applications on GitHub
 
