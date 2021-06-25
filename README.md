@@ -11,5 +11,6 @@
 - Atom One Dark Theme
 - Code Runner
 - Python
+<br/>
 
 <img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/4.png" />I publish all my projects here on github
