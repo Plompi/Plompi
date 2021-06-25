@@ -8,4 +8,4 @@
 
 <img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/3.png" />In everyday programming I use VSCode with the following extensions: - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/4.png" />I publish all my projects here on github
+<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/4.png" />Since I publish all my projects here on github, everyone is allowed to fork my projects and work on them themselves
