@@ -2,24 +2,10 @@
 
 ## Hi there, I'm Philipp - aka Plompi 👋
 
-### About Me:
+### Currently I'm using these Languages and Tools:
 
-I am a <span id="age"></span> year old computer science student at the technical university of Berlin, who is eager to learn new skills and solve tough problems. My interest in technology began at a young age from where I developed a hobby for educating myself about the Python programming language to create my own little games and applications.
+<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/Python.png" />at the moment I'm focusing on the python programming language. In the future, however, I plan to learn other languages as well
 
+<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/VSCode.png" />In everyday programming I use VSCode with the following extensions: - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-<script>
-function calculateAge(birthdate) {
-  var today = new Date();
-  var birthDate = new Date(birthdate);
-  var age = today.getFullYear() - birthDate.getFullYear();
-  var m = today.getMonth() - birthDate.getMonth();
-  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-    age--;
-  }
-  return age;
-}
-
-var birthdate = "2004-07-01";
-var ageElement = document.getElementById("age");
-ageElement.textContent = calculateAge(birthdate);
-</script>
+<img align="left" height="26" width="26" src="https://github.com/Plompi/Plompi/blob/master/assets/Github.png" />Since I publish all my projects here on github, everyone is allowed to fork my projects and work on them
